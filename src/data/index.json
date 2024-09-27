@@ -1,0 +1,81 @@
+
+{
+    "skills": [
+        {
+
+            "id": "1",
+            "src": "/Front-end.jpg",
+            "title": "Front-End",
+            "description": "Front-end development focuses on creating the visual and interactive elements of a website or application. Using technologies like HTML, CSS, and JavaScript, I build user-friendly, responsive interfaces that ensure a seamless experience across all devices."
+        },
+        {
+            "id": "2",
+            "src": "/Back-end.jpg",
+            "title": "Back-End",
+            "description": "Back-end development involves building and managing the server-side logic, databases, and APIs that power a website or application. It ensures data is stored, processed, and delivered efficiently, allowing for seamless functionality behind the scenes."
+        },
+        {
+            "id": "3",
+            "src": "/Agile-trained.avif",
+            "title": "Agile Principles",
+            "description": "Agile principles focus on flexibility, teamwork, and continuous improvement. By breaking projects into smaller tasks, Agile helps teams adapt quickly to changes and deliver value more efficiently."
+        },
+        {
+            "id": "4",
+            "src": "/Database.jpg",
+            "title": "Database Management",
+            "description": "Database management involves organizing, storing, and retrieving data efficiently. It ensures that information is structured, secure, and accessible, allowing applications to function smoothly and handle data effectively."
+        }
+
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "/jen-styles.png",
+            "title": "Jen Styles",
+            "description": "Designed a responsive, user-oriented marketing website for a hairstylist to showcase their services products and prices. Created a scrolling image gallery, contact form, and responsive design for web and mobile browsing. Integrated an online booking website, allowing clients to schedule appointments directly through the website."
+        },
+        {
+            "id": "2",
+            "src": "/route-planner.jpg",
+            "title": "Route Planner SRC",
+            "description": "Collaborated in a team using Agile practices for the development of an SRS document for a mobile app, Route Planner, that provides users with various routes while considering many factors. Created UML diagrams and Gnatt chart, as well as functional/non-functional requirements sections."
+        },
+        {
+            "id": "3",
+            "src": "/gui-calculator.jpg",
+            "title": "GUI Calculator",
+            "description": "I developed a graphical user interface (GUI) calculator that provides a user-friendly experience for performing basic arithmetic operations. The calculator features an intuitive layout, allowing users to easily input numbers and functions while delivering accurate results in real time."
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "src": "/front-service.jpg",
+            "title": "Front-end Development",
+            "description": "Creating responsive, user-friendly websites using HTML, CSS, and JavaScript, React"
+        },
+        {
+            "id": "2",
+            "src": "/back-service.png",
+            "title": "Back-end Development",
+            "description": "Working with simple databases (SQL) or APIs. "
+        },
+        {
+            "id": "3",
+            "src": "/troubleshooting.png",
+            "title": "IT Support",
+            "description": "Assisting with troubleshooting and offering support for software or websites."
+        },
+        {
+            "id": "4",
+            "src": "/website-service.jpg",
+            "title": "Website Maintenance",
+            "description": "Updating or fixing existing websites."
+        }
+    ]
+
+    
+
+    
+}
